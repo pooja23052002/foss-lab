@@ -1,0 +1,2 @@
+The most popular distributed version control system is Git. 
+GIT - a command line version control program. developers can work independently and merge their work later.
